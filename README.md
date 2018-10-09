@@ -9,3 +9,10 @@
  Also circular dependencies are not handled
 
 If tests were filled and running you needed pytest
+
+TO RUN:
+
+```
+python app/main.py
+
+```
